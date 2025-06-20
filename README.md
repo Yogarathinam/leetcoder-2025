@@ -91,7 +91,7 @@ GOOGLE_CHROME_EXECUTABLE_PATH=C:/Program Files/Google/Chrome/Application/chrome.
 ---
 
 ### 4. Start the bot 🚀
-
+If Runing in VS code terminal dont forget to use ```bash npm install ```
 ```bash
 node index.js
 ```
