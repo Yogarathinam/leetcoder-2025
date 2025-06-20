@@ -90,19 +90,7 @@ GOOGLE_CHROME_EXECUTABLE_PATH=C:/Program Files/Google/Chrome/Application/chrome.
 
 ---
 
-### 4. First-time login setup
-
-Run the following to launch a Chrome window and login manually:
-
-```bash
-node login.js
-```
-
-> ⚠️ This saves your login session using Chrome’s user profile under `UserData/`.
-
----
-
-### 5. Start the bot 🚀
+### 4. Start the bot 🚀
 
 ```bash
 node index.js
